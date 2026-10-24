@@ -1,10 +1,9 @@
 <h1 align="center">Bienvenidos a mi Portafolio</h1>
 <h3 align="center">Desarrollador de software junior · Meller Garnica</h3>
 
-<!-- EDITA: sube tu banner a assets/banner.jpg o cambia la ruta por .jpeg/.png -->
 <p align="center">
   <img
-    src="assets/espacio gaming.jpg"
+    src="assets/espacio-gaming.png"
     alt="Banner de Meller Garnica: desarrollador de software"
     width="100%"
   >
@@ -57,7 +56,6 @@ Categoría	Tecnologías
 🗺️ Mapa de proyectos
 🌐 Aplicaciones web
 - Elemental Universe — Proyecto de videojuego. Ver repositorio
-<!-- EDITA: cuando tengas proyectos reales adicionales, añádelos aquí con sus enlaces. -->
 
 🎮 Videojuegos
 <p align="center">
@@ -71,9 +69,6 @@ Categoría	Tecnologías
   <br>
   <sub>Elemental Universe — captura de mi proyecto de videojuego</sub>
 </p>
-
-<!-- Puedes cambiar .jpg por .jpeg o .png. La extensión debe coincidir con el nombre real del archivo. -->
-<!-- Para mostrar más capturas, copia el bloque de imagen y cambia la ruta y el texto alternativo. -->
 
 📊 Actividad y estadísticas
 <p align="center">
@@ -94,9 +89,6 @@ Elemental Universe	Proyecto de videojuego	Tecnologías por confirmar
 📫 Contáctame
 Medio	Enlace
 💼 LinkedIn	Mi perfil de LinkedIn
-
-
-<!-- Añade tu portafolio, correo, WhatsApp o CV cuando tengas los enlaces que quieras hacer públicos. -->
 
 <p align="center">
   Gracias por visitar mi perfil 💚
