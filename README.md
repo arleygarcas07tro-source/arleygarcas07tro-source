@@ -54,7 +54,7 @@ Aquí cada fragmento de la plantilla [`README.md`](README.md) va seguido de su e
 ## 4. Fila de badges
 
 ```html
-<a href="https://github.com/TU-USUARIO?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/TU-USUARIO?style=for-the-badge&logo=github&label=Seguidores"></a>
+<a href="https://github.com/arleygarcas07tro-source?tab=followers"><img alt="Seguidores" src="https://img.shields.io/github/followers/TU-USUARIO?style=for-the-badge&logo=github&label=Seguidores"></a>
 ```
 
 - `<a href>` vuelve la imagen un **enlace** (aquí a tu lista de seguidores).
